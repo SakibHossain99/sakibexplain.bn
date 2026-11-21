@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-11-20T10:01:18.682Z",
+  "engine": "msedge-tts (bn-BD-PradeepNeural / bn-IN-BashkarNeural / bn-BD-NabanitaNeural)",
+  "durationSec": 90.024,
+  "cues": [
+    {
+      "id": "s01_01",
+      "speaker": "chacha",
+      "startSec": 0.15,
+      "endSec": 3.912,
+      "startFrame": 5,
+      "endFrame": 117
+    },
+    {
+      "id": "s01_02",
+      "speaker": "rafi",
+      "startSec": 4.1,
+      "endSec": 6.922,
+      "startFrame": 123,
+      "endFrame": 208
+    },
+    {
+      "id": "s01_03",
+      "speaker": "chacha",
+      "startSec": 7.1,
+      "endSec": 10.652,
+      "startFrame": 213,
+      "endFrame": 320
+    },
+    {
+      "id": "s02_01",
+      "speaker": "narrator",
+      "startSec": 11.2,
+      "endSec": 14.757,
+      "startFrame": 336,
+      "endFrame": 443
+    },
+    {
+      "id": "s02_02",
+      "speaker": "narrator",
+      "startSec": 16.05,
+      "endSec": 17.99,
+      "startFrame": 482,
+      "endFrame": 540
+    },
+    {
+      "id": "s03_01",
+      "speaker": "narrator",
+      "startSec": 19.15,
+      "endSec": 20.814,
+      "startFrame": 575,
+      "endFrame": 624
+    },
+    {
+      "id": "s03_02",
+      "speaker": "ma",
+      "startSec": 21.25,
+      "endSec": 23.166,
+      "startFrame": 638,
+      "endFrame": 695
+    },
+    {
+      "id": "s03_03",
+      "speaker": "rafi",
+      "startSec": 25.05,
+      "endSec": 27.779,
+      "startFrame": 752,
+      "endFrame": 833
+    },
+    {
+      "id": "s04_01",
+      "speaker": "narrator",
+      "startSec": 29.15,
+      "endSec": 33.035,
+      "startFrame": 875,
+      "endFrame": 991
+    },
+    {
+      "id": "s04_02",
+      "speaker": "narrator",
+      "startSec": 34.1,
+      "endSec": 38.816,
+      "startFrame": 1023,
+      "endFrame": 1164
+    },
+    {
+      "id": "s05_01",
+      "speaker": "rafi",
+      "startSec": 40.15,
+      "endSec": 42.958,
+      "startFrame": 1205,
+      "endFrame": 1289
+    },
+    {
+      "id": "s05_02",
+      "speaker": "sumon",
+      "startSec": 43.1,
+      "endSec": 45.064,
+      "startFrame": 1293,
+      "endFrame": 1352
+    },
+    {
+      "id": "s05_03",
+      "speaker": "baba",
+      "startSec": 45.25,
+      "endSec": 49.815,
+      "startFrame": 1358,
+      "endFrame": 1494
+    },
+    {
+      "id": "s06_01",
+      "speaker": "narrator",
+      "startSec": 50.2,
+      "endSec": 56.184,
+      "startFrame": 1506,
+      "endFrame": 1686
+    },
+    {
+      "id": "s07_01",
+      "speaker": "narrator",
+      "startSec": 58.2,
+      "endSec": 64.039,
+      "startFrame": 1746,
+      "endFrame": 1921
+    },
+    {
+      "id": "s08_01",
+      "speaker": "narrator",
+      "startSec": 67.2,
+      "endSec": 73.091,
+      "startFrame": 2016,
+      "endFrame": 2193
+    },
+    {
+      "id": "s09_01",
+      "speaker": "chacha",
+      "startSec": 75.2,
+      "endSec": 77.687,
+      "startFrame": 2256,
+      "endFrame": 2331
+    },
+    {
+      "id": "s09_02",
+      "speaker": "rafi",
+      "startSec": 79.1,
+      "endSec": 82.025,
+      "startFrame": 2373,
+      "endFrame": 2461
+    },
+    {
+      "id": "s10_01",
+      "speaker": "narrator",
+      "startSec": 83.15,
+      "endSec": 89.759,
+      "startFrame": 2495,
+      "endFrame": 2693
+    }
+  ]
+}
